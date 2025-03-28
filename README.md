@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 <!---LeetCode Topics End-->
