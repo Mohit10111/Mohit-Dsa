@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Hash Table
 |  |
