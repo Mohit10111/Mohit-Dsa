@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
