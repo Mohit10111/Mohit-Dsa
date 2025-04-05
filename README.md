@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
