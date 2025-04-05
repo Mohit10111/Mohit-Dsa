@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
