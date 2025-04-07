@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
 ## Simulation
 |  |
 | ------- |
