@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
