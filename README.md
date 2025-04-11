@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0507-perfect-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 ## Number Theory
