@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Prefix Sum
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2491-smallest-even-multiple) |
