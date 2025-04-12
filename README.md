@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Prefix Sum
 |  |
