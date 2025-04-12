@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2630-alternating-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2630-alternating-digit-sum) |
 | [2998-count-symmetric-integers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
