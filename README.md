@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
