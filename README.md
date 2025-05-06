@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
