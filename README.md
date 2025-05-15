@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
