@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
+| [3221-find-the-peaks](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3221-find-the-peaks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2998-count-symmetric-integers) |
+| [3221-find-the-peaks](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3221-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
