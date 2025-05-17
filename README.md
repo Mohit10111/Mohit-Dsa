@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 ## Linked List
 |  |
 | ------- |
