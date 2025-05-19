@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
