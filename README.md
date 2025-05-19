@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0507-perfect-number) |
+| [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
 ## Counting
 |  |
 | ------- |
