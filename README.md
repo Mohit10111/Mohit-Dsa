@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
