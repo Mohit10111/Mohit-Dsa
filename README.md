@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
 ## Simulation
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Number Theory
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0455-assign-cookies) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
