@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2836-neither-minimum-nor-maximum) |
 ## Simulation
