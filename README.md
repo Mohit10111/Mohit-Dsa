@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0455-assign-cookies) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
