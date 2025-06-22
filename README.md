@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3194-find-words-containing-character) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Prefix Sum
