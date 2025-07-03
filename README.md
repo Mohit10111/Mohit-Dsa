@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1965-sum-of-digits-in-base-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
