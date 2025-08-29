@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
