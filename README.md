@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1205-defanging-an-ip-address) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
