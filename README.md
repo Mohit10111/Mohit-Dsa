@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0575-distribute-candies) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2486-most-frequent-even-element](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2486-most-frequent-even-element) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Number Theory
