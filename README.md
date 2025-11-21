@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0733-flood-fill) |
 ## Sliding Window
