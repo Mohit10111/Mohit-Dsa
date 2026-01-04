@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1033-broken-calculator) |
+| [1390-four-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
