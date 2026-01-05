@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1534-count-good-triplets](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1534-count-good-triplets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2102-find-the-middle-index-in-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1534-count-good-triplets) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3221-find-the-peaks) |
