@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
