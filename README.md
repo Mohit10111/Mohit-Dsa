@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0958-sort-array-by-parity-ii) |
