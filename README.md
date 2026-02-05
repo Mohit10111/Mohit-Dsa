@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1534-count-good-triplets](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1534-count-good-triplets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -264,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
