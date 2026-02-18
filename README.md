@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2556-convert-the-temperature) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1542-consecutive-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3194-find-words-containing-character) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit10111/Mohit-Dsa/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Mohit10111/Mohit-Dsa/tree/master/0413-arithmetic-slices) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohit10111/Mohit-Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Mohit10111/Mohit-Dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Stack
 |  |
 | ------- |
